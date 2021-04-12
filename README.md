@@ -9,7 +9,7 @@ This module is used for change admin Login page logo and admin dashboard logo.
 
 # Installation Instruction
 ```
-- Copy the content of the repo to the Magento 2 app/code/Niks/ProductAlertGraphQl
+- Copy the content of the repo to the Magento 2 app/code/Niks/Admintheme
 - Run command: php bin/magento setup:upgrade
 - Run command: php bin/magento setup:di:compile
 - Run Command: php bin/magento setup:static-content:deploy
