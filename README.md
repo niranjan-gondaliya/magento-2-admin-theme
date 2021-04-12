@@ -1,5 +1,6 @@
 # Magento 2 Admin Theme
 This module is used for change admin Login page logo and admin dashboard logo.
+You have to change you logo in following location. **view/adminhtml/web/images**
 
 
 # Features
